@@ -1,4 +1,4 @@
-# CodeAlpha - Network Packet Sniffer (Task 1)
+# Network Packet Sniffer
 
 A feature-rich Network Packet Sniffer built in Python using **Scapy** and **Tkinter**. This tool captures live network packets, extracts protocol information (IP, TCP, UDP, ICMP), decodes raw payloads, and provides a dynamic graphical user interface (GUI) with real-time protocol filtering.
 
